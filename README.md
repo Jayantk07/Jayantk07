@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jayant Kumar
-- 👀 I’m interested in Cyber Security & Web Development
+- 👀 I’m interested in Data Analytics & Web Development
 - 🌱 I’m currently an IT student studying in K.J. Somaiya Institute of Engineering and Information Technology
 - 📫 You can reach me on kjayant1603@gmail.com
 <!---
