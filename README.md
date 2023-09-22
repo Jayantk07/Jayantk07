@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jayant Kumar
 - 👀 I’m interested in Data Analytics & Web Development
-- 🌱 I’m currently an IT student studying in K.J. Somaiya Institute of Engineering and Information Technology
+- 🌱 I’m currently a Commercial Analyst in KMK Consulting Inc.
 - 📫 You can reach me on kjayant1603@gmail.com
 <!---
 Jayantk07/Jayantk07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
